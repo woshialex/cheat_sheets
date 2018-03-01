@@ -15,4 +15,5 @@
 [Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
 ## Coding
-[C++ Template](https://github.com/MCGallaspy/dr_strangetemplate)
+[C++ Template Explained with good examples](https://github.com/MCGallaspy/dr_strangetemplate)
+[C++ template tutorial](https://github.com/wuye9036/CppTemplateTutorial)
